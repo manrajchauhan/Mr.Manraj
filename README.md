@@ -1,4 +1,4 @@
-<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="M-Encode" title="M-Encode"/>
+<img src="https://github.com/manrajchauhan/manrajchauhan/intro_mj.gif" align="center" alt="M-Encode" title="M-Encode"/>
 (https://M-Encode.com/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=manrajchauhan.Mr.Manraj&color=00cf00)
