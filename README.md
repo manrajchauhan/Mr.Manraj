@@ -1,5 +1,5 @@
-<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="M-Encode" title="M-Encode"/>
-(https://M-Encode.com/)
+<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="M-Encode" title="Q-Encode"/>
+(https://qencode.in/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=manrajchauhan.Mr.Manraj&color=00cf00)
 <!--
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Web Developer & Designer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="" height="30em" align="center" alt="M-Encode" title="M-Encode"/>](https://M-Encode.com)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="" height="30em" align="center" alt="M-Encode" title="M-Encode"/>](https://qencode.in)
 - 🎓 I Had Completed My Computer Science From Mumbai University Of Mumbai
 - 🌐 i Use technologies like Php, React , NextJS, NodeJs, ExpressJs
 
