@@ -1,4 +1,4 @@
-<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="M-Encode" title="Q-Encode"/>
+<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="Q-ENCODE" title="Q-Encode"/>
 (https://qencode.in/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=manrajchauhan.Mr.Manraj&color=00cf00)
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Web Developer & Designer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="" height="30em" align="center" alt="M-Encode" title="M-Encode"/>](https://qencode.in)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="" height="30em" align="center" alt="Q-ENCODE" title="Q-ENCODE"/>](https://qencode.in)
 - 🎓 I Had Completed My Computer Science From Mumbai University Of Mumbai
 - 🌐 i Use technologies like Php, React , NextJS, NodeJs, ExpressJs
 
@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 - Working With The Start Up Company The Happening Event & Quebical Software Company!
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/ManrajChauhan/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- My Own Start Company Up M-Encode Co. Solutions   
+- My Own Start Company Up Q-ENCODE Co. Solutions   
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 M-Encode-OCR-Processing Tool Is based on Image text Extraction
+1. 💪 Q-ENCODE-OCR-Processing Tool Is based on Image text Extraction
 
 <!--END_SECTION:activity-->
 
