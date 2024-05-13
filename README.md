@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Web Developer & Designer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="" height="30em" align="center" alt="Q-ENCODE" title="Q-ENCODE"/>](https://qencode.in)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://www.qencode.in/default-logo.svg" height="30em" align="center" alt="Q-ENCODE" title="Q-ENCODE"/>](https://qencode.in)
 - 🎓 I Had Completed My Computer Science From Mumbai University Of Mumbai
 - 🌐 i Use technologies like Php, React , NextJS, NodeJs, ExpressJs
 
