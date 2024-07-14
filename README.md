@@ -1,4 +1,4 @@
-<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" border-radius="20px" alt="Solsn Technologies" title="Solsn Technologies"/>
+### <img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" border-radius="20px" alt="Solsn Technologies" title="Solsn Technologies"/>
 
 <h1 align="center"> Hi 👋🏻, I'm Manraj Chauhan </br> 
 </h1>
