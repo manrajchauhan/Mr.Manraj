@@ -1,7 +1,5 @@
 <img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="Solsn Technologies" title="Solsn Technologies"/>
 (https://solsn.com/)
-
-![visitors](https://vbr.wocr.tk/badge?page_id=manrajchauhan.Mr.Manraj&color=00cf00)
 <!--
 **Manraj Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
