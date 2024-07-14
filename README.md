@@ -1,10 +1,9 @@
 <img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" border-radius="20px" alt="Solsn Technologies" title="Solsn Technologies"/>
 
-# 💫 About Me:
-
 <h1 align="center"> Hi 👋🏻, I'm Manraj Chauhan </br> 
 </h1>
-<p align="center">I love creating new things ⚡</p>
+<p align="center">Leading Web Innovation and Strategy for Solsn Technologies
+⚡</p>
 <p align="center">Where Ideas Come Alive 🚀</p>
 <p align="center">
  <a href="https://buymeacoffee.com/manrajchauhan.dev" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
