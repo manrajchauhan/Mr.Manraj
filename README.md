@@ -1,9 +1,9 @@
-<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="Q-ENCODE" title="Q-Encode"/>
-(https://qencode.in/)
+<img src="https://github.com/manrajchauhan/manrajchauhan/blob/Master/intro_mj.gif" align="center" alt="Solsn Technologies" title="Solsn Technologies"/>
+(https://solsn.com/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=manrajchauhan.Mr.Manraj&color=00cf00)
 <!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manraj Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Web Developer & Designer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://www.qencode.in/default-logo.svg" height="30em" align="center" alt="Q-ENCODE" title="Q-ENCODE"/>](https://qencode.in)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://www.solsn.com/logo.svg" height="30em" align="center" alt="Solsn Technolgoies" title="Solsn Technolgoies"/>](https://solsn.com)
 - 🎓 I Had Completed My Computer Science From Mumbai University Of Mumbai
 - 🌐 i Use technologies like Php, React , NextJS, NodeJs, ExpressJs
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working With The Start Up Company The Happening Event & Quebical Software Company!
+- Managing The Self Company Solsn Technologies.
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/ManrajChauhan/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - My Own Start Company Up Q-ENCODE Co. Solutions   
